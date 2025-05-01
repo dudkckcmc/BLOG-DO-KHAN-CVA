@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Logo do Khan Academy -->
-  <img src="https://imgur.com/a/Fn9fZc2" width="120px" alt="Khan Academy Logo"/>
+  <img src="https://i.imgur.com/4fG5hQQ.png" width="120px" alt="Khan Academy Logo"/>
 </p>
 
 <h2 align="center">✨ Automatize suas atividades no <strong>KHAN ACADEM CVA</strong> com facilidade!</h2>
@@ -39,7 +39,7 @@
 
 <p align="center">
   <!-- Foto de anime masculino -->
-  <img src="" width="150px" alt="Anime Autor Image"/>
+  <img src="https://i.imgur.com/1XvPM4z.jpg" width="150px" alt="Anime Autor Image"/>
 </p>
 <p align="center">
   <strong style="color:#e86a04;">Criado por !Marcos Tutoriais (𝓒𝓥𝓐)</strong>
