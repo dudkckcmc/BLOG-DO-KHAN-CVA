@@ -19,7 +19,7 @@ O **KHAN ACADEM CVA** é uma ferramenta criada para simplificar a vida de quem p
 ## 🔗 **Links úteis:**
 
 - [**Entre no nosso Discord**](https://discord.gg/RxeWTUDJ) - Conecte-se à comunidade e tire suas dúvidas.
-- [**Faça uma doação**](https://pixgg.com/im_snow) - Se gostou do projeto e quer contribuir, sua ajuda é bem-vinda!
+- [**Faça uma doação**]() - Se gostou do projeto e quer contribuir, sua ajuda é bem-vinda!
 
 ---
 
