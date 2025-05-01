@@ -1,13 +1,13 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0f0c29&text=KHAN%20ACADEM&fontSize=45&fontAlignY=35&fontColor=ffffff"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0f0c29&text=KHAN%20ACADEM&fontSize=45&fontAlignY=35&fontColor=ffffff"/></a>
 
 <p align="center">
-  <img src="https://i.imgur.com/gjvdhbo.png" width="120px" alt="Microbit Logo"/>
+  <img src="https://images.app.goo.gl/jt2dbCP8ZtMG8DcK7" width="120px" alt="Khan Academ Icon"/>
 </p>
 
-<h2 align="center">✨ Automatize sua <strong>KHAN ACADEM</strong> com facilidade!</h2>
+<h2 align="center">✨ Automatize sua <strong>Expansão Noturna</strong> com facilidade!</h2>
 
 <p align="center">
-  O <strong>KHAN ACADEM</strong> realiza automaticamente as atividades na plataforma <strong>Expansão Noturna</strong>, poupando seu tempo e esforço de forma segura e eficiente.
+  O <strong>Expansão Noturna Maker</strong> realiza automaticamente as atividades na plataforma <strong>Expansão Noturna</strong>, poupando seu tempo e esforço de forma rápida, segura e eficiente.
 </p>
 
 ---
@@ -19,7 +19,7 @@
     <img src="https://i.imgur.com/r0YUgMR.png" width="14%" alt="Discord">
   </a>
   &nbsp;
-  <a href=". ">
+  <a href="https://pixgg.com/im_snow">
     <img src="https://i.imgur.com/yLUUqaa.png" width="14%" alt="Doar">
   </a>
 </p>
@@ -37,12 +37,12 @@
 ## 👤 Autor
 
 <p align="center">
-  <img src="https://images.app.goo.gl/bzFQZQKfscFX8P6N9" width="150px" alt="Snow Profile"/>
+  <img src="https://images.app.goo.gl/bzFQZQKfscFX8P6N" width="150px" alt="Autor Profile"/>
 </p>
 <p align="center">
-  <strong style="color:#e86a04;">Criado por !Marcos Tutoriais (𝓒𝓥𝓐)/strong>
+  <strong style="color:#e86a04;">Criado por !Marcos Tutoriais (𝓒𝓥𝓐)</strong>
 </p>
 
 ---
 
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0f0c29&section=footer"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0f0c29&section=footer"/></a>
