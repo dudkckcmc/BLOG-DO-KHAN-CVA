@@ -30,13 +30,6 @@ O **KHAN ACADEM CVA** é uma ferramenta criada para simplificar a vida de quem p
 
 ---
 
-## 📊 **Estatísticas do projeto:**
-
-Visualizações:  
-![Contador de Visualizações](https://komarev.com/ghpvc/?username=MicrobitMakerUser&style=for-the-badge&label=Views:&color=0f0c29)
-
----
-
 ## 👤 **Criado por:**
 
 **!Marcos Tutoriais (𝓒𝓥𝓐)**
