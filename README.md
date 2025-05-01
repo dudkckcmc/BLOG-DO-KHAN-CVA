@@ -5,11 +5,11 @@
 
 
 
-# 🌙 **KHAN ACADEM CVA** 🌙
+# 🌙 **KHAN ACADEMY CVA** 🌙
 
 ---
 
-## 🚀 Automatize suas tarefas no **KHAN ACADEM CVA** de maneira rápida e eficiente!
+## 🚀 Automatize suas tarefas no **KHAN ACADEMY CVA** de maneira rápida e eficiente!
 
 O **KHAN ACADEM CVA** é uma ferramenta criada para simplificar a vida de quem precisa automatizar atividades no **Khan Academy**, proporcionando mais tempo para o que realmente importa. Use este projeto para garantir que você complete suas tarefas sem esforço!
 
