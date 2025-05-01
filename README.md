@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Logo do Khan Academy -->
-  <img src="https://i.imgur.com/Cj6O0UD.png" width="120px" alt="Khan Academy Icon"/>
+  <img src="https://i.imgur.com/4fG5hQQ.png" width="120px" alt="Khan Academy Logo"/>
 </p>
 
 <h2 align="center">✨ Automatize suas atividades no <strong>KHAN ACADEM CVA</strong> com facilidade!</h2>
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://discord.gg/RxeWTUDJ">
-    <img src="https://i.imgur.com/r0YUgMR.png" width="14%" alt="Discord">
+    <img src="https://i.imgur.com/1gS9aAq.png" width="14%" alt="Discord">
   </a>
   &nbsp;
   <a href="https://pixgg.com/im_snow">
