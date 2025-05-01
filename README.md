@@ -34,7 +34,7 @@ O **KHAN ACADEM CVA** é uma ferramenta criada para simplificar a vida de quem p
 
 **!Marcos Tutoriais (𝓒𝓥𝓐)**
 
-Agradecemos a todos que ajudam a tornar este projeto mais completo!
+**Agradecemos a todos que ajudam a tornar este projeto mais completo!**](#)
 
 ---
 
