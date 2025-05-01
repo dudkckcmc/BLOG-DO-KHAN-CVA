@@ -40,7 +40,7 @@ O **KHAN ACADEM CVA** é uma ferramenta criada para simplificar a vida de quem p
 
 ## 📢 **Comece Agora!**
 
-[**Acesse o projeto e automatize suas atividades no Khan Academy!**](#)
+**Acesse o projeto e automatize suas atividades no Khan Academy!**
 
 ---
 
