@@ -1,3 +1,10 @@
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffffff&text=Khan%20(𝓒𝓥𝓐)&fontSize=40&fontAlignY=33&fontColor=01d2a0"/></a>
+
+---
+
+
+
+
 # 🌙 **KHAN ACADEM CVA** 🌙
 
 ---
