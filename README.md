@@ -1,9 +1,8 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0f0c29&text=KHAN%20ACADEM%20CVA&fontSize=45&fontAlignY=35&fontColor=ffffff"/></a>
+<a href="#">
+  <h1 align="center">KHAN ACADEM CVA</h1>
+</a>
 
-<p align="center">
-  <!-- Logo do Khan Academy -->
-  <img src="https://i.imgur.com/4fG5hQQ.png" width="120px" alt="Khan Academy Logo"/>
-</p>
+---
 
 <h2 align="center">✨ Automatize suas atividades no <strong>KHAN ACADEM CVA</strong> com facilidade!</h2>
 
@@ -16,13 +15,9 @@
 ## 🌐 Comunidade e Suporte
 
 <p align="center">
-  <a href="https://discord.gg/RxeWTUDJ">
-    <img src="https://i.imgur.com/1gS9aAq.png" width="14%" alt="Discord">
-  </a>
-  &nbsp;
-  <a href="https://pixgg.com/im_snow">
-    <img src="https://i.imgur.com/yLUUqaa.png" width="14%" alt="Doar">
-  </a>
+  <a href="https://discord.gg/RxeWTUDJ">Entrar no Discord</a>
+  &nbsp;|&nbsp;
+  <a href="">Faça uma doação</a>
 </p>
 
 ---
@@ -30,7 +25,7 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MicrobitMakerUser&style=for-the-badge&label=Views:&color=0f0c29"/>
+  Visualizações: ![Contador de visualizações](https://komarev.com/ghpvc/?username=MicrobitMakerUser&style=for-the-badge&label=Views:&color=0f0c29)
 </p>
 
 ---
@@ -38,13 +33,17 @@
 ## 👤 Autor
 
 <p align="center">
-  <!-- Foto de anime masculino -->
-  <img src="https://i.imgur.com/1XvPM4z.jpg" width="150px" alt="Anime Autor Image"/>
-</p>
-<p align="center">
-  <strong style="color:#e86a04;">Criado por !Marcos Tutoriais (𝓒𝓥𝓐)</strong>
+  Criado por <strong>!Marcos Tutoriais (𝓒𝓥𝓐)</strong>
 </p>
 
 ---
 
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0f0c29&section=footer"/></a>
+<a href="#">
+  <h2 align="center">Acesse o <strong>KHAN ACADEM CVA</strong> para começar a automatizar suas tarefas agora!</h2>
+</a>
+
+---
+
+<p align="center">
+  <sub><i>Projeto desenvolvido com amor para facilitar o seu dia a dia!</i></sub>
+</p>
