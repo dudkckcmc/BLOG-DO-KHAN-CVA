@@ -58,3 +58,14 @@ Agradecemos a todos que ajudam a tornar este projeto mais completo!
 ---
 
 # 🔥 **Seja parte da nossa comunidade e aprenda conosco!**
+
+
+
+
+<!-- Créditos -->
+<div align="center">
+  <img src="https://i.imgur.com/CAqIV2G.png" width="150px" alt="Snow Profile"/>
+  <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por !Marcos Tutoriais (𝓒𝓥𝓐)</h3>
+</div>
+
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffffff&section=footer"/></a>
