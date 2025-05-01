@@ -64,7 +64,7 @@ Agradecemos a todos que ajudam a tornar este projeto mais completo!
 
 <!-- Créditos -->
 <div align="center">
-  <img src="https://i.imgur.com/CAqIV2G.png" width="150px" alt="Snow Profile"/>
+  <img src="https://imgur.com/a/HvnKLF9.png" width="150px" alt="Snow Profile"/>
   <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por !Marcos Tutoriais (𝓒𝓥𝓐)</h3>
 </div>
 
