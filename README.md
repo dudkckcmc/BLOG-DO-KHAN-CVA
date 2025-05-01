@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0f0c29&text=KHAN%20ACADEM&fontSize=45&fontAlignY=35&fontColor=ffffff"/></a>
 
 <p align="center">
-  <img src="https://i.imgur.com/FIXMEkh.png" width="120px" alt="Khan Academ Icon"/>
+  <img src="https://i.imgur.com/0y8Ftya.png" width="120px" alt="Khan Academy Icon"/>
 </p>
 
 <h2 align="center">✨ Automatize sua <strong>Expansão Noturna</strong> com facilidade!</h2>
@@ -37,7 +37,7 @@
 ## 👤 Autor
 
 <p align="center">
-  <img src="https://i.imgur.com/FIXMEau.png" width="150px" alt="Autor Profile"/>
+  <img src="https://i.imgur.com/8RKXAIV.png" width="150px" alt="Autor Profile"/>
 </p>
 <p align="center">
   <strong style="color:#e86a04;">Criado por !Marcos Tutoriais (𝓒𝓥𝓐)</strong>
