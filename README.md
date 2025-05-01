@@ -1,13 +1,19 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0f0c29&text=KHAN%20ACADEM&fontSize=45&fontAlignY=35&fontColor=ffffff"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0f0c29&text=KHAN%20ACADEM%20CVA&fontSize=45&fontAlignY=35&fontColor=ffffff"/></a>
 
 <p align="center">
-  <img src="https://i.imgur.com/0y8Ftya.png" width="120px" alt="Khan Academy Icon"/>
+  <img src="https://i.imgur.com/S2i4H6D.png" width="120px" alt="Khan Academy Icon"/>
 </p>
 
-<h2 align="center">✨ Automatize sua <strong>Expansão Noturna</strong> com facilidade!</h2>
+<h2 align="center">✨ Automatize suas atividades no <strong>KHAN ACADEM CVA</strong> com facilidade!</h2>
 
 <p align="center">
-  O <strong>Expansão Noturna Maker</strong> realiza automaticamente as atividades na plataforma <strong>Expansão Noturna</strong>, poupando seu tempo e esforço de forma rápida, segura e eficiente.
+  Um projeto feito para ajudar nas tarefas, poupando seu tempo e deixando tudo mais prático e eficiente.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/fXSjF1n.png" width="250px" alt="Anime Image"/>
 </p>
 
 ---
