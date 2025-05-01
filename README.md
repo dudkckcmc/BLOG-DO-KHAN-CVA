@@ -12,12 +12,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/fXSjF1n.png" width="250px" alt="Anime Image"/>
-</p>
-
----
-
 ## 🌐 Comunidade e Suporte
 
 <p align="center">
@@ -43,7 +37,7 @@
 ## 👤 Autor
 
 <p align="center">
-  <img src="https://i.imgur.com/8RKXAIV.png" width="150px" alt="Autor Profile"/>
+  <img src="https://i.imgur.com/fXSjF1n.png" width="150px" alt="Anime Autor Image"/>
 </p>
 <p align="center">
   <strong style="color:#e86a04;">Criado por !Marcos Tutoriais (𝓒𝓥𝓐)</strong>
