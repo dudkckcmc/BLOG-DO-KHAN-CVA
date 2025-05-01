@@ -37,7 +37,7 @@
 ## 👤 Autor
 
 <p align="center">
-  <img src="https://i.imgur.com/CAqIV2G.png" width="150px" alt="Snow Profile"/>
+  <img src="https://images.app.goo.gl/bzFQZQKfscFX8P6N9" width="150px" alt="Snow Profile"/>
 </p>
 <p align="center">
   <strong style="color:#e86a04;">Criado por !Marcos Tutoriais (𝓒𝓥𝓐)/strong>
